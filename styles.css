@@ -1,0 +1,45 @@
+.token-section {
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid lime;
+  padding: 2rem;
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 700px;
+  font-family: monospace;
+  color: #39ff14;
+  box-shadow: 0 0 10px #00ff99;
+  text-align: left;
+}
+
+.token-section h2 {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 5px #00ff99;
+}
+
+.token-specs p {
+  margin: 0.5rem 0;
+}
+
+.label {
+  color: #ff0080;
+  font-weight: bold;
+}
+
+.token-warning {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  font-style: italic;
+  color: #ff5555;
+  border-top: 1px dashed #ff5555;
+  text-align: center;
+  animation: glitch 2s infinite;
+}
+
+@keyframes glitch {
+  0% { opacity: 1; }
+  45% { opacity: 0.5; transform: translateX(-1px); }
+  55% { opacity: 0.8; transform: translateX(1px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
