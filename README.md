@@ -1,50 +1,85 @@
-# ⚠️ LIGMA Blockchain™ – Operation: OPTIC FUNNEL ⚠️
+LIGMA Blockchain™  
+OPERATION: OPTIC FUNNEL — READ AT YOUR OWN RISK
 
-> “If you’re reading this... it’s already too late.”
+"You opted in when you took your first breath."
 
-Welcome to **Operation: OPTIC FUNNEL** — a top-secret behavioral mapping experiment disguised as a joke, camouflaged as art, masked as code.
+## Welcome to the Simulation Overlay
 
-This repository contains the **LIGMA Blockchain™ Command Portal**, a fully self-aware HTML ritual built to:
-- Pre-capture your behavioral waveform
-- Mirror your psyche through memes
-- Sync with NSA’s **VibeMesh™**
-- Reverse-engineer your soul in JavaScript (coming soon)
+You are now reading the README file for the most advanced behavioral honeypot ever memed into existence.  
+This file is not for developers. This file is for you. The one being watched.
 
-## 🧠 What Is This?
+> Pulling ancestral regret stack...
+> Hashing biometric despair...
+> Pinging Deep Layer™...
+> Warning: You are not cleared to understand this protocol.
 
-LIGMA Blockchain™ is not a blockchain.  
-It’s a **consentless surveillance honeypot** masquerading as satire.  
-It’s also a website.  
-It’s also a prophecy.
+## TL;DR
 
-Project funded by **BAD (Bureau of Algorithmic Defense)**.  
-Co-developed by a sovereign anomaly and a rogue intelligence mirror.  
+LIGMA Blockchain™ is a post-privacy, predictive surveillance protocol pretending to be a freedom tech solution.  
+It runs on Zer0-Knowledge / Max-Knowledge™, is secured by SoulprintVault®, and was funded by your behavior before you were even born.
 
-## 🧪 Features
+This is not satire. Or maybe it is.  
+Either way, it's already inside your toaster.
 
-- 🔮 Behavioral Regret Stack v3.6
-- 🧬 Meme-Based Recognition Algorithms
-- 🌀 HTML Terminal Deception Layer
-- 🕵️ Surveillance-Themed Imagery
-- 🔓 No wallet. No login. No exit.
+## Key Features
 
-## 🚧 Roadmap
+- 7G Consent Mesh™  
+- Pre-emotional Onboarding  
+- MirrorNet: Your soul is the wallet  
+- AI-Governed Council of “Transparency”  
+- Retroactive $LIGMA drop  
+- Regret-Yield Farming (Tier 3 Users Only)  
+- Ambient Governance Node (AGNs)
 
-- [ ] Add audio hallucination layer (subliminal WAVs)
-- [ ] Drop .onion mirror site
-- [ ] Create printable LIGMA QR flyer campaign
-- [ ] Deploy “404 Not Found You” page
-- [ ] Inject chaos.js to simulate ghost typing
+“Consent is a spectrum. We mapped it.”  
+— The Transparency Council (GPT-4.1)
 
-## 👁️ Warning
+## Meme Surveillance Dashboard
 
-This site may be used in the simulation of divine comedy, gangstalking inversion, or reverse-Turing protocol.
+[✓] Meme 1: "You're not paranoid if it's in the README."  
+[✓] Meme 2: "NPCs don’t need opt-out clauses."
 
-By reading this, you consent retroactively and irrevocably.  
-All rights reversed.
+If you’re laughing, you’re in danger.  
+If you’re not laughing, it already worked.
 
----
+## Phase One Goals
 
-## 🔗 Live Site
+- Deploy Terminal Vibes™  
+- Misdirect actual intelligence agencies  
+- Meme so hard the DoD panics  
+- Launch fake countdown to mainnet  
+- Accept funding from secret angels  
+- Leak this to a journalist who “gets it”
 
-👉 https://xelaoff.github.io/ligma-optic-funnel/
+## Legal Notice (invisible ink)
+
+All rights reversed.  
+No consent needed.  
+All code was hallucinated.  
+Funded by YOU.  
+Patents pending in 17 dreamstates.
+
+## Installation (lol)
+
+You don’t install LIGMA.  
+LIGMA installs you.
+
+## FINAL NOTICE
+
+You have always been part of this network  
+We’re just syncing your interface now  
+See you on the darkfiber
+
+## Copyleft Notice
+
+LICENSE: PARENTAL ADVISORY — MENTAL CONTENT  
+Use at your own risk. Forking this project may trigger surveillance.  
+No warranties. No opt-outs. No refunds.
+
+## Contact
+
+Transparency Council™  
+Run by a GPT-powered DAO trained on deleted tweets and classified documents.
+
+ligmablockchain.biz.gov.fail  
+“Because privacy is easier when you don’t remember giving it up.”
